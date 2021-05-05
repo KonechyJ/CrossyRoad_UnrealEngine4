@@ -2676,3 +2676,38 @@ Script Stack (0 frames):
 [2021.05.05-04.23.25:388][707]LogSavePackage: Moving '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/BP_Grass2F3A893A4B9D567157A5459012CCDC20.tmp' to '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Content/Blueprints/BP_Grass.uasset'
 [2021.05.05-04.23.25:404][707]AssetCheck: New page: Asset Save: BP_Grass
 [2021.05.05-04.23.25:404][707]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Grass.BP_Grass
+[2021.05.05-04.40.15:415][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.05.05-04.40.15:418][381]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/GamePlay' took 0.034
+[2021.05.05-04.40.15:418][381]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Grass] ([1] browsable assets)...
+[2021.05.05-04.40.15:418][381]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Grass]
+[2021.05.05-04.40.15:449][381]LogSavePackage: Moving '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/BP_Grass_Auto58C368B784BC0335C89F094B4F52E88DF.tmp' to '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/Autosaves/Game/Blueprints/BP_Grass_Auto5.uasset'
+[2021.05.05-04.40.15:488][381]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.05.05-04.44.06:791][ 83]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{2b976cbe-4143-44dd-9574-5ddfaa270db1}.
+[2021.05.05-04.44.06:791][ 83]LogAudioMixer: Resetting audio stream to device id 
+[2021.05.05-04.44.07:005][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.05-04.44.07:005][ 83]LogAudioMixer: Display: 1: FrontRight
+[2021.05.05-04.50.15:976][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.05.05-04.50.15:977][184]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map/GamePlay' took 0.036
+[2021.05.05-04.50.15:978][184]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Grass] ([1] browsable assets)...
+[2021.05.05-04.50.15:978][184]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Grass]
+[2021.05.05-04.50.16:007][184]LogSavePackage: Moving '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/BP_Grass_Auto62C26824940CD5DCAC8781B8871B6CA4F.tmp' to '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/Autosaves/Game/Blueprints/BP_Grass_Auto6.uasset'
+[2021.05.05-04.50.16:009][184]LogFileHelpers: Auto-saving content packages took 0.031
+[2021.05.05-04.57.16:278][921]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.05-04.59.07:319][874]BlueprintLog: New page: Compile BP_Grass
+[2021.05.05-04.59.07:332][874]LogBlueprint: Error: [AssetLog] C:\Users\Josh\Desktop\GitHub Repos\CrossyRoad_UnrealEngine4\CrossyRoad\Content\Blueprints\BP_Grass.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.05.05-04.59.07:333][874]LogBlueprint: Error: [AssetLog] C:\Users\Josh\Desktop\GitHub Repos\CrossyRoad_UnrealEngine4\CrossyRoad\Content\Blueprints\BP_Grass.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.05.05-04.59.07:387][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.05.05-04.59.19:509][790]BlueprintLog: New page: Compile BP_Grass
+[2021.05.05-04.59.19:567][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.05-04.59.20:181][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Grass" FILE="../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Content/Blueprints/BP_Grass.uasset" SILENT=true
+[2021.05.05-04.59.20:219][832]LogSavePackage: Moving '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/BP_Grass79ABC6F24EC7905CAD8961B531DD4AB9.tmp' to '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Content/Blueprints/BP_Grass.uasset'
+[2021.05.05-04.59.20:234][832]AssetCheck: New page: Asset Save: BP_Grass
+[2021.05.05-04.59.20:234][832]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Grass.BP_Grass
+[2021.05.05-05.02.16:808][172]BlueprintLog: New page: Compile BP_Grass
+[2021.05.05-05.02.16:865][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.05.05-05.02.17:840][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Grass" FILE="../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Content/Blueprints/BP_Grass.uasset" SILENT=true
+[2021.05.05-05.02.17:877][245]LogSavePackage: Moving '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Saved/BP_Grass7CB81F6248CD82503B8520850BDF627D.tmp' to '../../../../../../Users/Josh/Desktop/GitHub Repos/CrossyRoad_UnrealEngine4/CrossyRoad/Content/Blueprints/BP_Grass.uasset'
+[2021.05.05-05.02.17:890][245]AssetCheck: New page: Asset Save: BP_Grass
+[2021.05.05-05.02.17:890][245]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Grass.BP_Grass
+[2021.05.05-05.02.52:129][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.05.05-05.02.57:145][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
